@@ -1,5 +1,5 @@
 import {Greet} from "./bindings/main/GreetService.js";
-import {Events} from "@wailsio/runtime";
+const  {Events} = wails;
 
 const resultElement = document.getElementById('result');
 const timeElement = document.getElementById('time');
