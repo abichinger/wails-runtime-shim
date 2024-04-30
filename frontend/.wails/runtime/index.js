@@ -1,0 +1,2 @@
+import { Application, Browser, Call, Clipboard, Dialogs, Events, Flags, Screens, System, Window, WML } from "/wails/runtime.js";
+export { Application, Browser, Call, Clipboard, Dialogs, Events, Flags, Screens, System, Window, WML }

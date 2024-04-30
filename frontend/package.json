@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@wailsio/runtime": "./.wails/runtime",
     "vite": "^5.0.0",
-    "@wailsio/runtime": "latest"
+    "vite-plugin-externalize-dependencies": "^0.12.0"
   }
 }
